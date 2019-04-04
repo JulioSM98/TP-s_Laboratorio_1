@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554383246 source:c:\users\julio\desktop\tp_laboratorio n°1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1554335151 c:\users\julio\desktop\tp_laboratorio n°1\calculadora\operaciones.h
+
+1554384103 source:c:\users\julio\desktop\tp_laboratorio n°1\calculadora\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+
